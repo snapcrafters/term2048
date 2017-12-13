@@ -16,6 +16,8 @@
 <p align="center"><b>This is the snap for term2048</b>, <i>"A terminal-based version of 2048."</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
+[![Snap Status](https://build.snapcraft.io/badge/LaughingLove/term2048-snap.svg)](https://build.snapcraft.io/user/LaughingLove/term2048-snap)
+
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
 <a href="https://build.snapcraft.io/user/snapcrafters/fork-and-rename-me"><img src="https://build.snapcraft.io/badge/snapcrafters/fork-and-rename-me.svg" alt="Snap Status"></a>
